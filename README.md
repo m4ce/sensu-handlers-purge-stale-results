@@ -1,6 +1,6 @@
 # Sensu handler for purging stale check results
 
-A sensu handler to purge stale check results.
+A sensu handler to purge stale check results. This handler can be invoked from a check that uses the the [sensu-plugins-stale-results](http://github.com/m4ce/sensu-plugins-stale-results) plugin.
 
 ## Usage
 
